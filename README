@@ -1,0 +1,10 @@
+Class Project: Face Recognition between Dimensionality Reduction and Support Vector Machines
+Date: Dec 2011
+Based on: C.-J. Hsieh et al. A Dual Coordinate Descent Method for Large-scale Linear SVM. ICML, 2008.
+
+The project purpose was to experiment with combinations of PCA, LDA, random projections, and SVM for
+face recognition. I opted to implement the dual coordinate descent approach in the reference for
+extra credit. The experiments file is a mess, but it is unlikely to be helpful to anyone anyway.
+
+Code is online mainly for my reference. It is licensed under GPLv2 for non-commercial research purposes only.
+The experiments were run on face datasets, including Yale's.
